@@ -12,7 +12,8 @@ These functions are to be implemented within our system: the back-end blockchain
 For the deployment of a single chain in our project, four (at least four nodes to meet the basic requirements of fault tolerance of CBFT) computing nodes need to be placed separately, where nodes can be deployed on a case-by-case basis. A high-speed network is used for communication between the nodes. In the process of consistency voting on data blocks, this project uses the CBFT algorithm, thus ensuring that it can still operate normally when there is an error in one node.
 In summary, the authenticity and reliability of the data needs to be ensured, using the control of smart contracts and the characteristics of the blockchain itself, while achieving tamper-proof, data sharing, multiple authorizations, and privacy protection for electronic medical records.
 the results of compiling our smart contract and deploying it to test runs on the system. The experimental session was implemented through the Ethereum test network and software “ganache”. 
-** The results of compiling our smart contract and deploying it to test runs on the system**.
+- The results of compiling our smart contract and deploying it to test runs on the system.
+
 ![image](https://user-images.githubusercontent.com/25323443/226366453-7bb82b4b-9460-46db-9c52-9e5d03059c39.png)
 ![image](https://user-images.githubusercontent.com/25323443/226366665-6dd760df-460d-4d33-adbe-5a239244615c.png)
 ![image](https://user-images.githubusercontent.com/25323443/226366674-baf40e55-5cc8-4cd9-8f44-e472df2ad754.png)
